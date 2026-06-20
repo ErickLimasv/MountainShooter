@@ -1,0 +1,17 @@
+# Window Size
+WIN_WIDTH = 576
+WIN_HEIGHT = 324
+
+# Pallet Colors
+COLOR_ORANGE = (255, 128, 0)
+COLOR_WHITE = (255, 255, 255)
+COLOR_YELLOW = (255, 255, 0)
+
+# Menu Options
+MENU_OPTIONS = [
+    "NEW GAME 1P",
+    "NEW GAME 2P - COOPERATIVE",
+    "NEW GAME 2P - COMPETITIVE",
+    "SCORE",
+    "EXIT"
+]
