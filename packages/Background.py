@@ -3,8 +3,8 @@ from packages.Entity import Entity;
 
 class Background(Entity):
 
-    def __init__(self, surf: str, speed: int, position=(0,0)):
-        super().__init__(surf, position)
+    def __init__(self, name: str, speed: int, position=(0,0)):
+        super().__init__(name, position)
         self.speed = speed
 
     def move(self):
